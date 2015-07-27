@@ -1,0 +1,14 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "Node server as a visual studio solution",
+  "main": "server.js",
+  "author": {
+    "name": "markaurit",
+    "email": "markaurit@gmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  }
+}
