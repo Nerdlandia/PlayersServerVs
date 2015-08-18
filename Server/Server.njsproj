@@ -30,11 +30,12 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="docs\db\README.txt" />
+    <Content Include="docs\db\Database_Schema.txt" />
     <Content Include="docs\db\Postgres.txt" />
     <Content Include="docs\db\SampleData.txt" />
     <Content Include="docs\db\Table_Schema.txt" />
     <Content Include="docs\Install.txt" />
-    <Content Include="docs\ToDo.txt" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
