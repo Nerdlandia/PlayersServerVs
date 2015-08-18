@@ -35,7 +35,7 @@
     <Content Include="docs\db\Postgres.txt" />
     <Content Include="docs\db\SampleData.txt" />
     <Content Include="docs\db\Table_Schema.txt" />
-    <Content Include="docs\Install.txt" />
+    <Content Include="Install.txt" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
